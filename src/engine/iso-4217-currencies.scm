@@ -92,6 +92,7 @@
 ( "Spanish Peseta" "peseta" "centimo"  "ISO4217" "ESP" "724" 100 100 "₧" ) ;; 2002-01-01 "EUR" 166.386
 ( "Ethiopian Birr" "birr" "santim" "ISO4217" "ETB" "230" 100 100 "Br" )
 ( "Euro" "euro" "euro-cent" "ISO4217" "EUR" "978" 100 100 "€" )
+( "Bitcoin" "bitcoin" "satoshi" "ISO4217" "BTC" "" 100000000 100000000 "BTC" )
 ( "Finnish Markka" "markka" "penni"  "ISO4217" "FIM" "246" 100 100 "mk" ) ;; 2002-01-01 "EUR" 5.94573
 ( "Fiji Dollar" "dollar" "cent" "ISO4217" "FJD" "242" 100 100 "FJ$" )
 ( "Falkland Islands Pound" "pound" "pence" "ISO4217" "FKP" "238" 100 100 "FK£" )
