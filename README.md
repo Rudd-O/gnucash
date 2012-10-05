@@ -1,10 +1,10 @@
 Seriously, just use Ledger.
 
-    http://www.ledger-cli.org/
+http://www.ledger-cli.org/
 
-    http://www.ledger-cli.org/docs.html
+http://www.ledger-cli.org/docs.html
 
-    http://www.reddit.com/r/Bitcoin/comments/10yksy/gnucash_with_possibly_buggy_bitcoin_support_you/c6hygw5
+http://www.reddit.com/r/Bitcoin/comments/10yksy/gnucash_with_possibly_buggy_bitcoin_support_you/c6hygw5
 
 GnuCash refuses to support Bitcoin.  It's highly cumbersome to use.
 Its development is glacial-paced.  The UI leaves a lot to be desired, is
